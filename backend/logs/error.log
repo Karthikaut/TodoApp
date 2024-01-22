@@ -1,0 +1,170 @@
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', '2023-12-05T18:30:00.000Z', '', NULL, 'aaa') - ER_BAD_NULL_ERROR: Column 'remainder' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', '2023-12-05T18:30:00.000Z', '', NULL, 'aaa') - ER_BAD_NULL_ERROR: Column 'remainder' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', '2023-12-05T18:30:00.000Z', '', NULL, 'aaa') - ER_BAD_NULL_ERROR: Column 'remainder' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'an') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('g', NULL, '', NULL, 'g') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', NULL, '', NULL, 'aa') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', NULL, '', NULL, 'aa') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error fetching all todos: todo is not defined"}
+{"level":"error","message":"Error fetching all todos: todo is not defined"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('tt', NULL, '', NULL, 'th') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('ff', NULL, '', NULL, 'ff') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: todo is not defined"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: secretOrPrivateKey must have a value"}
+{"level":"error","message":"Error login: secretOrPrivateKey must have a value"}
+{"level":"error","message":"Error login: secretOrPrivateKey must have a value"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: userId is not defined"}
+{"level":"error","message":"Error login: userId is not defined"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Error fetching all todos: select * from `todolist` - ER_NO_SUCH_TABLE: Table 'test.todolist' doesn't exist"}
+{"level":"error","message":"Error fetching all todos: select * from `todolist` - ER_NO_SUCH_TABLE: Table 'test.todolist' doesn't exist"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('nodejs', '2024-01-09T18:30:00.000Z', 'hi', '2024-01-22T18:30:00.000Z', 'backend developer') - ER_NO_SUCH_TABLE: Table 'test.todolist' doesn't exist"}
+{"level":"error","message":"Error registration: connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"error","message":"Error registration: connect ECONNREFUSED 127.0.0.1:3306"}

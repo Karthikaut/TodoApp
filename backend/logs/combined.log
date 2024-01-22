@@ -1,0 +1,2650 @@
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /45"}
+{"level":"info","message":"GET /454"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /todo/54"}
+{"level":"info","message":"GET /todo/54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /todo/55"}
+{"level":"info","message":"GET /todo/55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /todo/53"}
+{"level":"info","message":"GET /todo/53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /56"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', '2023-12-05T18:30:00.000Z', '', NULL, 'aaa') - ER_BAD_NULL_ERROR: Column 'remainder' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', '2023-12-05T18:30:00.000Z', '', NULL, 'aaa') - ER_BAD_NULL_ERROR: Column 'remainder' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', '2023-12-05T18:30:00.000Z', '', NULL, 'aaa') - ER_BAD_NULL_ERROR: Column 'remainder' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/58"}
+{"level":"info","message":"DELETE /todolist/58"}
+{"level":"info","message":"DELETE /todolist/58"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('a', NULL, '', NULL, 'an') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/59"}
+{"level":"info","message":"DELETE /todolist/59"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('g', NULL, '', NULL, 'g') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/60"}
+{"level":"info","message":"DELETE /todolist/60"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('mal', NULL, '', NULL, 'ani') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aaa', NULL, '', NULL, 'a') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', NULL, '', NULL, 'aa') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('aa', NULL, '', NULL, 'aa') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /55"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /61"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /63"}
+{"level":"info","message":"GET /63"}
+{"level":"info","message":"OPTIONS /update/63"}
+{"level":"info","message":"PUT /update/63"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /63"}
+{"level":"info","message":"GET /63"}
+{"level":"info","message":"OPTIONS /update/63"}
+{"level":"info","message":"PUT /update/63"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /63"}
+{"level":"info","message":"GET /63"}
+{"level":"info","message":"OPTIONS /update/63"}
+{"level":"info","message":"PUT /update/63"}
+{"level":"info","message":"PUT /update/63"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/62"}
+{"level":"info","message":"DELETE /todolist/62"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/61"}
+{"level":"info","message":"DELETE /todolist/61"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/64"}
+{"level":"info","message":"DELETE /todolist/64"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/65"}
+{"level":"info","message":"DELETE /todolist/65"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /66"}
+{"level":"info","message":"GET /66"}
+{"level":"info","message":"OPTIONS /update/66"}
+{"level":"info","message":"PUT /update/66"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /67"}
+{"level":"info","message":"GET /67"}
+{"level":"info","message":"OPTIONS /update/67"}
+{"level":"info","message":"PUT /update/67"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/70"}
+{"level":"info","message":"DELETE /todolist/70"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/68"}
+{"level":"info","message":"DELETE /todolist/68"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/67"}
+{"level":"info","message":"DELETE /todolist/67"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/66"}
+{"level":"info","message":"DELETE /todolist/66"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/63"}
+{"level":"info","message":"DELETE /todolist/63"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/69"}
+{"level":"info","message":"DELETE /todolist/69"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /71"}
+{"level":"info","message":"GET /71"}
+{"level":"info","message":"OPTIONS /update/71"}
+{"level":"info","message":"PUT /update/71"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"OPTIONS /update/74"}
+{"level":"info","message":"PUT /update/74"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /76"}
+{"level":"info","message":"GET /76"}
+{"level":"info","message":"OPTIONS /update/76"}
+{"level":"info","message":"PUT /update/76"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/76"}
+{"level":"info","message":"DELETE /todolist/76"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"OPTIONS /update/74"}
+{"level":"info","message":"PUT /update/74"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/74"}
+{"level":"info","message":"DELETE /todolist/74"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/57"}
+{"level":"info","message":"DELETE /todolist/57"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /74"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /71"}
+{"level":"info","message":"GET /71"}
+{"level":"info","message":"OPTIONS /update/71"}
+{"level":"info","message":"PUT /update/71"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/72"}
+{"level":"info","message":"DELETE /todolist/72"}
+{"level":"info","message":"OPTIONS /todolist/73"}
+{"level":"info","message":"DELETE /todolist/73"}
+{"level":"info","message":"OPTIONS /todolist/75"}
+{"level":"info","message":"DELETE /todolist/75"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /78"}
+{"level":"info","message":"GET /78"}
+{"level":"info","message":"OPTIONS /update/78"}
+{"level":"info","message":"PUT /update/78"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/71"}
+{"level":"info","message":"DELETE /todolist/71"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"OPTIONS /update/53"}
+{"level":"info","message":"PUT /update/53"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: todo is not defined"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: todo is not defined"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('tt', NULL, '', NULL, 'th') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('ff', NULL, '', NULL, 'ff') - ER_BAD_NULL_ERROR: Column 'duedate' cannot be null"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: todo is not defined"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/77"}
+{"level":"info","message":"DELETE /todolist/77"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/79"}
+{"level":"info","message":"DELETE /todolist/79"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/81"}
+{"level":"info","message":"DELETE /todolist/81"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/80"}
+{"level":"info","message":"DELETE /todolist/80"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/82"}
+{"level":"info","message":"DELETE /todolist/82"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error Login: id is not defined"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/78"}
+{"level":"info","message":"DELETE /todolist/78"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"warn","message":"Invalid login attempt for username:\n           thi"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /r"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /protected-route"}
+{"level":"info","message":"GET /protected-route"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: secretOrPrivateKey must have a value"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: secretOrPrivateKey must have a value"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: secretOrPrivateKey must have a value"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /login?token=eyJhbGciOiJIUzI1NiJ9.e30.KgOVnYiI-AF9su0Ts1ivpF8Adq6k1Pl7RravaGw4fsQ"}
+{"level":"info","message":"GET /login?token=eyJhbGciOiJIUzI1NiJ9.e30.KgOVnYiI-AF9su0Ts1ivpF8Adq6k1Pl7RravaGw4fsQ"}
+{"level":"info","message":"GET /?token=eyJhbGciOiJIUzI1NiJ9.e30.KgOVnYiI-AF9su0Ts1ivpF8Adq6k1Pl7RravaGw4fsQ"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6?token=eyJhbGciOiJIUzI1NiJ9.e30.GzG034b_DrlmKhZwhIUPhfKUmDsRO7K30DWRdNLKob0"}
+{"level":"info","message":"GET /6?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /6?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /6?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /auth"}
+{"level":"info","message":"POST /auth/login"}
+{"level":"info","message":"GET /todos?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /todos/?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /todos/4?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"GET /todos/4?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /auth/login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /?token=eyJhbGciOiJIUzI1NiJ9.e30.xqHKcnVHF8scpO0xjU8aoWR3bJhdH7AG9IlIArwB4-E"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6?token=eyJhbGciOiJIUzI1NiJ9.e30.jLxwNsFMnPnSu1ux8UwSu-JDjy32zeoFauCNw3H6Ppc"}
+{"level":"info","message":"GET /6?token=eyJhbGciOiJIUzI1NiJ9.e30.jLxwNsFMnPnSu1ux8UwSu-JDjy32zeoFauCNw3H6Ppc"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username] query: select * from `userlist` where `username` = ? limit ?"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: userId is not defined"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: userId is not defined"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: connect ECONNREFUSED ::1:3306"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /6"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/83"}
+{"level":"info","message":"DELETE /todolist/83"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: Undefined binding(s) detected when compiling FIRST. Undefined column(s): [username, password] query: select * from `userlist` where `username` = ? and `password` = ? limit ?"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/83"}
+{"level":"info","message":"DELETE /todolist/83"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/83"}
+{"level":"info","message":"DELETE /todolist/83"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/56"}
+{"level":"info","message":"DELETE /todolist/56"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/85"}
+{"level":"info","message":"DELETE /todolist/85"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/86"}
+{"level":"info","message":"DELETE /todolist/86"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"GET /home/53"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"OPTIONS /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /84"}
+{"level":"info","message":"OPTIONS /84"}
+{"level":"info","message":"GET /84"}
+{"level":"info","message":"GET /84"}
+{"level":"info","message":"OPTIONS /home/update/84"}
+{"level":"info","message":"PUT /home/update/84"}
+{"level":"info","message":"OPTIONS /84"}
+{"level":"info","message":"GET /84"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"OPTIONS /update/53"}
+{"level":"info","message":"PUT /update/53"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /87"}
+{"level":"info","message":"GET /87"}
+{"level":"info","message":"GET /87"}
+{"level":"info","message":"OPTIONS /update/87"}
+{"level":"info","message":"PUT /update/87"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"GET /53"}
+{"level":"info","message":"OPTIONS /update/53"}
+{"level":"info","message":"PUT /update/53"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /54"}
+{"level":"info","message":"OPTIONS /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"GET /54"}
+{"level":"info","message":"OPTIONS /update/54"}
+{"level":"info","message":"PUT /update/54"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /1"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /create"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /register"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"error","message":"Error login: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: select * from `todolist` - ER_NO_SUCH_TABLE: Table 'test.todolist' doesn't exist"}
+{"level":"info","message":"GET /"}
+{"level":"error","message":"Error fetching all todos: select * from `todolist` - ER_NO_SUCH_TABLE: Table 'test.todolist' doesn't exist"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"error","message":"Error fetching all todos: insert into `todolist` (`description`, `duedate`, `notes`, `remainder`, `title`) values ('nodejs', '2024-01-09T18:30:00.000Z', 'hi', '2024-01-22T18:30:00.000Z', 'backend developer') - ER_NO_SUCH_TABLE: Table 'test.todolist' doesn't exist"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /1"}
+{"level":"info","message":"OPTIONS /1"}
+{"level":"info","message":"GET /1"}
+{"level":"info","message":"GET /1"}
+{"level":"info","message":"OPTIONS /update/1"}
+{"level":"info","message":"PUT /update/1"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"error","message":"Error registration: connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /2"}
+{"level":"info","message":"OPTIONS /2"}
+{"level":"info","message":"GET /2"}
+{"level":"info","message":"GET /2"}
+{"level":"info","message":"OPTIONS /update/2"}
+{"level":"info","message":"PUT /update/2"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/2"}
+{"level":"info","message":"DELETE /todolist/2"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/3"}
+{"level":"info","message":"DELETE /todolist/3"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"listening on port 8081"}
+{"level":"info","message":"OPTIONS /register"}
+{"level":"info","message":"POST /register"}
+{"level":"info","message":"OPTIONS /login"}
+{"level":"info","message":"POST /login"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /create"}
+{"level":"info","message":"POST /create"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /1"}
+{"level":"info","message":"OPTIONS /1"}
+{"level":"info","message":"GET /1"}
+{"level":"info","message":"GET /1"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"OPTIONS /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"OPTIONS /todolist/1"}
+{"level":"info","message":"DELETE /todolist/1"}
+{"level":"info","message":"GET /"}
