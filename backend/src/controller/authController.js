@@ -3,7 +3,7 @@
 /* eslint-disable new-cap */
 /* eslint-disable linebreak-style */
 const {body, validationResult} = require('express-validator');
-const Todo = require('../model/todoModel');
+const Todo = require('..+++++/model/todoModel');
 const winston = require('winston');
 const jwt = require('jsonwebtoken');
 const secretKey = process.env.JWT_SECRET;
