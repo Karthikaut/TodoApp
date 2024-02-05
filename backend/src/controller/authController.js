@@ -8,7 +8,6 @@ const winston = require('winston');
 const jwt = require('jsonwebtoken');
 const secretKey = process.env.JWT_SECRET;
 
-
 const logger = winston.createLogger({
   transports: [
     new winston.transports.Console(),
